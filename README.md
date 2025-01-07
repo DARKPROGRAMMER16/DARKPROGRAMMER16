@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **webstack technologies**
 
-- 📫 How to reach me **rohitdash16.rdx@gmail.com**
+- 📫 How to reach me **rajatdash1606.rdx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

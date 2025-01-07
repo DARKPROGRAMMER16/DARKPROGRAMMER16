@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Enhancing my skills in **FullStack Technologies ex. ReactJs,NodeJs,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://darkprogrammer16.github.io/Rajat-Dash-Portfolio/](https://darkprogrammer16.github.io/Rajat-Dash-Portfolio/)
+- 👨‍💻 All of my projects are available at https://rajat-dash.vercel.app/](https://rajat-dash.vercel.app/)
 
 - 💬 Ask me about **webstack technologies**
 
